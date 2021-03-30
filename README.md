@@ -1,5 +1,7 @@
 # Share your Ecologi impact in Slack
 
+<img src="images/slack-notification.png" width="634" height="329">
+
 At [Rareloop](https://www.rareloop) we use [Ecologi](https://www.ecologi.com) to help us offset our carbon footprint for our business and for our employees. We wanted to have a regular reminder of our impact and as Ecologi has an API we decided to write a quick Slack integration.
 
 We share this here incase others would also benefit from it. The script is simple and could be better, but is practical and enabled us to get up and running quickly.
