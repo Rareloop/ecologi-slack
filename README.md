@@ -18,7 +18,3 @@ If you find this script useful please consider either:
 
 1. 🌱🌱 [Contributing some trees to the Rareloop forest](https://ecologi.com/rareloop) 🌱🌱
 2. [Setting up an Ecologi account for you or your business](https://ecologi.com/rareloop?r=60618d1bcdd7a4001d7b86f2)
-
-<a href="https://ecologi.com/rareloop" target="_blank" rel="noopener noreferrer" title="View our Ecologi profile" style="width:200px;display:inline-block;margin-top:50px">
-  <img alt="We offset our carbon footprint via Ecologi" src="https://api.ecologi.com/badges/cpw/60618d1bcdd7a4001d7b86f2?black=true&landscape=true" style="width:200px;" />
-</a>
